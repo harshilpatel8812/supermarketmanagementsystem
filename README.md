@@ -1,9 +1,9 @@
 SupermarketManagementSystem
 
-- This is a simple java console-based project called SupermarketManagementSystem, developed to manage products and stock activities in supermarkrt.
+- This is a simple java console-based project called SupermarketManagementSystem, developed to manage products and stock activities in supermarket.
 Project Files:-
 
-- Product.java : Base class for prodct related information
+- Product.java : Base class for product related information
 - Activity.java : Class for managing stock activities
 - SearchAlgorithms.java : Custom searching and sorting algorithms
 - SortAlgorithms.java : Custom sorting algorithms
@@ -14,7 +14,7 @@ Project Files:-
 
 How to Run the Program:
 
-- First, install Java JDK, Netbeans from Appaanywhere. Open the and run whole project.
+- First, install Java JDK, Netbeans from Appsanywhere. Open the and run whole project.
 
 Added Features:
 
